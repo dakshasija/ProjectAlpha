@@ -1,0 +1,15 @@
+.login {
+            height: 450px;
+            margin-top: 50px;
+    }
+body{
+    color: white;
+    
+}
+.loginButton{
+    margin-bottom: 30px;
+    width:100%;
+}
+.apple {
+    cursor: pointer;
+}
